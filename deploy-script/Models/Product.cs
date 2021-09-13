@@ -24,8 +24,9 @@ namespace BuildProducts.Models
     /// <param name="Servings">The serving sizes of the product (e. g. 1g, 1 unit, 1 package, ...)</param>
     /// <param name="DefaultServing">The default serving referencing a key in <see cref="Servings" /></param>
     /// <param name="Tags">Tags of the product</param>
-    public record Product(string Id, string? Code, NutritionalInfo NutritionalInfo,
-        IReadOnlyDictionary<string, ProductLabel> Label, IReadOnlyDictionary<ServingType, double> Servings,
+    public record Product(string Id, string? Code, IReadOnlyDictionary<string, ProductLabel> Label,
+        NutritionalInfo NutritionalInfo,
+        IReadOnlyDictionary<ServingType, double> Servings,
         ServingType DefaultServing, ISet<string>? Tags)
     {
         /// <summary>
