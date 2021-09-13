@@ -4,10 +4,12 @@ on:
     paths:
       - products/**
       - deploy-script/**
+      - .github/workflows/validate-products.yml
   pull_request:
     paths:
       - products/**
       - deploy-script/**
+      - .github/workflows/validate-products.yml
 
 jobs:
   validate:

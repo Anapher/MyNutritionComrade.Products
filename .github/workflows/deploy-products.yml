@@ -4,6 +4,7 @@ on:
     paths:
       - products/**
       - deploy-script/**
+      - .github/workflows/deploy-products.yml
 
 jobs:
   build-and-deploy:
