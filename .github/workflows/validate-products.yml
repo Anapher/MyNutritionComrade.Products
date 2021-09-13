@@ -1,0 +1,26 @@
+name: Build and Deploy
+on:
+  push:
+    paths:
+      - products/**
+      - deploy-script/**
+  pull_request:
+    paths:
+      - products/**
+      - deploy-script/**
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: deploy-script/
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 5.0.x
+      - name: Validate files 🔧
+        run: dotnet lint -- ../products
