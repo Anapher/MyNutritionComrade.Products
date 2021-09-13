@@ -21,9 +21,48 @@ namespace BuildProducts
             var outputDirectory = new DirectoryInfo(args[0]);
             outputDirectory.Create();
 
-            var allProducts = new Dictionary<string, Product>();
+            var repos = new List<RepositoryReference>
+                { CreateRepository(productsDirectory, outputDirectory, "products") };
 
-            foreach (var productFile in productFiles)
+            foreach (var directory in
+                productsDirectory.GetDirectories("*", SearchOption.AllDirectories))
+            {
+                var name = "products-" + directory.FullName.Substring(productsDirectory.FullName.Length)
+                    .Trim(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar)
+                    .Replace(Path.DirectorySeparatorChar, '-').Replace(Path.AltDirectorySeparatorChar, '-');
+
+                repos.Add(CreateRepository(directory, outputDirectory, name));
+            }
+
+            CreateIndexFile(repos, outputDirectory);
+
+            return 0;
+        }
+
+        private static void CreateIndexFile(IReadOnlyList<RepositoryReference> repos, DirectoryInfo outputDirectory)
+        {
+            var indexFile = new FileInfo(Path.Combine(outputDirectory.FullName, "index.json"));
+
+            var result = JsonConvert.SerializeObject(repos, Formatting.None,
+                new JsonSerializerSettings
+                {
+                    ContractResolver = new CamelCasePropertyNamesContractResolver()
+                });
+
+            File.WriteAllText(indexFile.FullName, result);
+
+            Console.WriteLine($"Created file {indexFile.Name}");
+        }
+
+        private static RepositoryReference CreateRepository(DirectoryInfo directory, DirectoryInfo outputDirectory,
+            string productRepositoryName)
+        {
+            var allProducts = new List<Product>();
+
+            Console.WriteLine($"[{productRepositoryName}] Process directory {directory.FullName}");
+
+            var maxTimestamp = 0L;
+            foreach (var productFile in directory.GetFiles("*", SearchOption.TopDirectoryOnly))
             {
                 Product product;
                 try
@@ -37,10 +76,14 @@ namespace BuildProducts
                 }
 
                 product = PatchProduct(product);
-                allProducts.Add(product.Id, product);
+                allProducts.Add(product);
+
+                maxTimestamp = Math.Max(maxTimestamp,
+                    new DateTimeOffset(productFile.LastWriteTimeUtc).ToUnixTimeMilliseconds());
             }
 
-            Console.WriteLine($"{allProducts.Count} products are valid and will be available.");
+            Console.WriteLine(
+                $"{allProducts.Count} products are valid and will be available in {productRepositoryName}.");
 
             var result = JsonConvert.SerializeObject(allProducts, Formatting.None,
                 new JsonSerializerSettings
@@ -49,15 +92,17 @@ namespace BuildProducts
                     NullValueHandling = NullValueHandling.Ignore
                 });
 
-            var productsFilename = Path.Combine(outputDirectory.FullName, "products.json");
-            File.WriteAllText(productsFilename, result);
+            var filename = $"{productRepositoryName}.json";
+            var path = Path.Combine(outputDirectory.FullName, $"{productRepositoryName}.json");
+            File.WriteAllText(path, result);
 
-            Console.WriteLine($"Products -> {productsFilename} ({new FileInfo(productsFilename).Length / 1024} KiB)");
+            Console.WriteLine($"Products -> {filename} ({new FileInfo(path).Length / 1024} KiB)");
 
-            return 0;
+            return new RepositoryReference("../" + filename, maxTimestamp,
+                DateTimeOffset.FromUnixTimeMilliseconds(maxTimestamp));
         }
 
-        private static Product PatchProduct(Product product)
+        public static Product PatchProduct(Product product)
         {
             if (product.Tags is { Count: 0 })
             {
@@ -73,4 +118,6 @@ namespace BuildProducts
             return product;
         }
     }
+
+    public record RepositoryReference(string Url, long Version, DateTimeOffset Timestamp);
 }
