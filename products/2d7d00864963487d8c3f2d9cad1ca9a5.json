@@ -1,0 +1,24 @@
+{
+  "id": "2d7d00864963487d8c3f2d9cad1ca9a5",
+  "label": {
+    "de": {
+      "value": "Krustenbrot"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 217.0,
+    "fat": 1.0,
+    "saturatedFat": 0.1,
+    "carbohydrates": 43.0,
+    "sugars": 1.7,
+    "protein": 6.5,
+    "dietaryFiber": 4.9,
+    "sodium": 0.0
+  },
+  "servings": {
+    "g": 1.0,
+    "slice": 40.0
+  },
+  "defaultServing": "g"
+}

@@ -1,26 +1,26 @@
 {
-    "id": "aea9f0c4c4c94d16aa4a86968696fd8c",
-    "code": "29065806",
-    "label": {
-        "de": {
-            "value": "Butterkäse 45% Fett i.Tr. (Hofburger)"
-        }
-    },
-    "nutritionalInfo": {
-        "volume": 100,
-        "energy": 371,
-        "fat": 25,
-        "saturatedFat": 16,
-        "carbohydrates": 0.1,
-        "sugars": 0.1,
-        "protein": 23,
-        "dietaryFiber": 0,
-        "sodium": 1.7
-    },
-    "servings": {
-        "g": 1,
-        "package": 400,
-        "slice": 36
-    },
-    "defaultServing": "slice"
+  "id": "aea9f0c4c4c94d16aa4a86968696fd8c",
+  "code": "29065806",
+  "label": {
+    "de": {
+      "value": "Butterkäse 45% Fett i.Tr. (Hofburger)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 371.0,
+    "fat": 25.0,
+    "saturatedFat": 16.0,
+    "carbohydrates": 0.1,
+    "sugars": 0.1,
+    "protein": 23.0,
+    "dietaryFiber": 0.0,
+    "sodium": 1.7
+  },
+  "servings": {
+    "g": 1.0,
+    "package": 400.0,
+    "slice": 36.0
+  },
+  "defaultServing": "slice"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "767f12db843e4153bb2a6aa6ddb0b467",
+  "code": "4061458018531",
+  "label": {
+    "de": {
+      "value": "Mozzarella Classico (Cucina)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 247.0,
+    "fat": 19.0,
+    "saturatedFat": 12.0,
+    "carbohydrates": 1.0,
+    "sugars": 1.0,
+    "protein": 18.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.5
+  },
+  "servings": {
+    "g": 1.0,
+    "package": 125.0,
+    "portion": 62.5
+  },
+  "defaultServing": "package"
+}

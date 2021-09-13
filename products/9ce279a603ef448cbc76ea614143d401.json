@@ -1,0 +1,26 @@
+{
+  "id": "9ce279a603ef448cbc76ea614143d401",
+  "label": {
+    "de": {
+      "value": "Kartoffel gebacken (mit Schale)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 82.0,
+    "fat": 0.1,
+    "saturatedFat": 0.0,
+    "carbohydrates": 18.0,
+    "sugars": 1.7,
+    "protein": 2.5,
+    "dietaryFiber": 3.1,
+    "sodium": 0.0
+  },
+  "servings": {
+    "g": 1.0,
+    "large": 230.0,
+    "medium": 130.0,
+    "small": 105.0
+  },
+  "defaultServing": "medium"
+}

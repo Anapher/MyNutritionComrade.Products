@@ -1,0 +1,25 @@
+{
+  "id": "83e5a8ac32904f66aaf4fc90a8561ec9",
+  "code": "5055936839540",
+  "label": {
+    "de": {
+      "value": "Baked Cookies (MyProtein)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 385.0,
+    "fat": 12.0,
+    "saturatedFat": 5.2,
+    "carbohydrates": 50.0,
+    "sugars": 22.0,
+    "protein": 18.0,
+    "dietaryFiber": 5.2,
+    "sodium": 0.7
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 75.0
+  },
+  "defaultServing": "portion"
+}

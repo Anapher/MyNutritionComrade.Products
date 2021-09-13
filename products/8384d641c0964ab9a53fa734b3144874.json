@@ -1,0 +1,30 @@
+{
+  "id": "8384d641c0964ab9a53fa734b3144874",
+  "code": "5055936800250",
+  "label": {
+    "de": {
+      "value": "Impact Whey Protein Heidelbeere Cheesecake (MyProtein)",
+      "tags": [
+        "Proteinpulver",
+        "Eiweißpulver",
+        "Pulver"
+      ]
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 413.0,
+    "fat": 7.1,
+    "saturatedFat": 4.7,
+    "carbohydrates": 8.1,
+    "sugars": 0.2,
+    "protein": 79.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.25
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 25.0
+  },
+  "defaultServing": "portion"
+}

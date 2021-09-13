@@ -1,0 +1,25 @@
+{
+  "id": "61fedc79d8a440cf904f9cb94c87693a",
+  "code": "20799656",
+  "label": {
+    "de": {
+      "value": "Mozzarella light (Lovilio)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 165.0,
+    "fat": 8.5,
+    "saturatedFat": 6.0,
+    "carbohydrates": 1.5,
+    "sugars": 1.5,
+    "protein": 20.5,
+    "dietaryFiber": 0.0,
+    "sodium": 0.5
+  },
+  "servings": {
+    "g": 1.0,
+    "package": 125.0
+  },
+  "defaultServing": "package"
+}

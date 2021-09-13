@@ -1,0 +1,27 @@
+{
+  "id": "ca6b5844da5341e3b1dd05350f9b2553",
+  "label": {
+    "de": {
+      "value": "Eier (ohne Schale)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 147.0,
+    "fat": 9.95,
+    "saturatedFat": 3.1,
+    "carbohydrates": 0.77,
+    "sugars": 0.77,
+    "protein": 12.58,
+    "dietaryFiber": 0.0,
+    "sodium": 0.0
+  },
+  "servings": {
+    "extraLarge": 75.0,
+    "g": 1.0,
+    "large": 65.0,
+    "medium": 55.0,
+    "small": 45.0
+  },
+  "defaultServing": "medium"
+}

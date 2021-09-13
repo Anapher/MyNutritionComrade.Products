@@ -1,0 +1,25 @@
+{
+  "id": "21205e0309e44d62b835fcbfc8dc022b",
+  "code": "4311596044573",
+  "label": {
+    "de": {
+      "value": "Körniger Frischkäse (Gut&Günstig)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 103.0,
+    "fat": 4.5,
+    "saturatedFat": 2.9,
+    "carbohydrates": 3.0,
+    "sugars": 3.0,
+    "protein": 12.5,
+    "dietaryFiber": 0.0,
+    "sodium": 0.7
+  },
+  "servings": {
+    "g": 1.0,
+    "package": 200.0
+  },
+  "defaultServing": "g"
+}

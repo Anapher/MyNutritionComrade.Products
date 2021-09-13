@@ -1,0 +1,30 @@
+{
+  "id": "729e1d7314f8415b88824d9226adbfdb",
+  "code": "5055534319765",
+  "label": {
+    "de": {
+      "value": "Impact Whey Protein Cookies & Cream (MyProtein)",
+      "tags": [
+        "Proteinpulver",
+        "Eiweißpulver",
+        "Pulver"
+      ]
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 409.0,
+    "fat": 7.2,
+    "saturatedFat": 4.8,
+    "carbohydrates": 7.0,
+    "sugars": 6.9,
+    "protein": 80.0,
+    "dietaryFiber": 0.1,
+    "sodium": 0.25
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 25.0
+  },
+  "defaultServing": "portion"
+}

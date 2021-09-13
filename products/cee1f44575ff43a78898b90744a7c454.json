@@ -1,0 +1,28 @@
+{
+  "id": "cee1f44575ff43a78898b90744a7c454",
+  "code": "4026367000350",
+  "label": {
+    "de": {
+      "value": "Frische Weide Milch 3,7% Fett Bio (Upländer Bauern Molkerei)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 67.0,
+    "fat": 3.8,
+    "saturatedFat": 2.6,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "protein": 3.6,
+    "dietaryFiber": 0.0,
+    "sodium": 0.7
+  },
+  "servings": {
+    "ml": 1.0,
+    "package": 1000.0
+  },
+  "defaultServing": "ml",
+  "tags": [
+    "liquid"
+  ]
+}

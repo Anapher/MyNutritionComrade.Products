@@ -1,0 +1,27 @@
+{
+  "id": "384fc93b426641a5bb96119a26add7b1",
+  "code": "29063277",
+  "label": {
+    "de": {
+      "value": "Landsalami luftgetrocknet (GutBio)",
+      "tags": [
+        "Salami"
+      ]
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 332.0,
+    "fat": 27.0,
+    "saturatedFat": 11.8,
+    "carbohydrates": 1.0,
+    "sugars": 1.0,
+    "protein": 21.0,
+    "dietaryFiber": 0.0,
+    "sodium": 3.75
+  },
+  "servings": {
+    "g": 1.0
+  },
+  "defaultServing": "g"
+}

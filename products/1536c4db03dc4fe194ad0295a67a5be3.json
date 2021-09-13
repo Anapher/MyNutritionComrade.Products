@@ -1,0 +1,25 @@
+{
+  "id": "1536c4db03dc4fe194ad0295a67a5be3",
+  "code": "29077366",
+  "label": {
+    "de": {
+      "value": "Fraîcho Frischkäse - Kräuter der Provence (COQ)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 256.0,
+    "fat": 24.0,
+    "saturatedFat": 17.0,
+    "carbohydrates": 3.7,
+    "sugars": 3.3,
+    "protein": 6.1,
+    "dietaryFiber": 0.0,
+    "sodium": 1.2
+  },
+  "servings": {
+    "g": 1.0,
+    "package": 150.0
+  },
+  "defaultServing": "g"
+}

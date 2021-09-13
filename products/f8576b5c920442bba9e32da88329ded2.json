@@ -1,0 +1,33 @@
+{
+  "id": "f8576b5c920442bba9e32da88329ded2",
+  "code": "5055534302903",
+  "label": {
+    "de": {
+      "value": "Impact Whey Protein Geschmacksneutral (MyProtein)",
+      "tags": [
+        "Proteinpulver",
+        "Eiweißpulver",
+        "Pulver"
+      ]
+    },
+    "en": {
+      "value": "Impact Whey Protein Unflavored (MyProtein)"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 412.0,
+    "fat": 7.5,
+    "saturatedFat": 5.0,
+    "carbohydrates": 4.0,
+    "sugars": 4.0,
+    "protein": 82.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.5
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 25.0
+  },
+  "defaultServing": "portion"
+}
