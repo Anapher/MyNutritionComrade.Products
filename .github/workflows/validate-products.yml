@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Validate Products
 on:
   push:
     paths:
@@ -23,4 +23,4 @@ jobs:
         with:
           dotnet-version: 5.0.x
       - name: Validate files 🔧
-        run: dotnet lint -- ../products
+        run: dotnet run -- lint ../products
