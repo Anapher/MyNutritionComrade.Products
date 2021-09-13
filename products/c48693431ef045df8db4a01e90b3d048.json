@@ -1,0 +1,28 @@
+{
+    "id": "c48693431ef045df8db4a01e90b3d048",
+    "code": "29065028",
+    "label": {
+        "de": {
+            "value": "Speisequark Magerstufe (Milsani) 0,3% Fett",
+            "tags": [
+                "Magerquark"
+            ]
+        }
+    },
+    "nutritionalInfo": {
+        "volume": 100,
+        "energy": 66,
+        "fat": 0.3,
+        "saturatedFat": 0.2,
+        "carbohydrates": 3.9,
+        "sugars": 3.9,
+        "protein": 12,
+        "dietaryFiber": 0,
+        "sodium": 0.1
+    },
+    "servings": {
+        "g": 1,
+        "package": 500
+    },
+    "defaultServing": "package"
+}
