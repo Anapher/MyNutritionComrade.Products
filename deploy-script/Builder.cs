@@ -61,7 +61,7 @@ namespace BuildProducts
 
             Console.WriteLine($"[{productRepositoryName}] Process directory {directory.FullName}");
 
-            var maxTimestamp = 0L;
+            var maxTimestamp = DateTimeOffset.MinValue;
             foreach (var productFile in directory.GetFiles("*", SearchOption.TopDirectoryOnly))
             {
                 Product product;
@@ -78,8 +78,7 @@ namespace BuildProducts
                 product = PatchProduct(product);
                 allProducts.Add(product);
 
-                maxTimestamp = Math.Max(maxTimestamp,
-                    new DateTimeOffset(productFile.LastWriteTimeUtc).ToUnixTimeMilliseconds());
+                maxTimestamp = MaxDateTime(maxTimestamp, productFile.LastWriteTimeUtc);
             }
 
             Console.WriteLine(
@@ -98,8 +97,7 @@ namespace BuildProducts
 
             Console.WriteLine($"Products -> {filename} ({new FileInfo(path).Length / 1024} KiB)");
 
-            return new RepositoryReference("../" + filename, maxTimestamp,
-                DateTimeOffset.FromUnixTimeMilliseconds(maxTimestamp));
+            return new RepositoryReference("../" + filename, maxTimestamp);
         }
 
         public static Product PatchProduct(Product product)
@@ -117,7 +115,12 @@ namespace BuildProducts
 
             return product;
         }
+
+        private static DateTimeOffset MaxDateTime(DateTimeOffset d1, DateTimeOffset d2)
+        {
+            return d1 > d2 ? d1 : d2;
+        }
     }
 
-    public record RepositoryReference(string Url, long Version, DateTimeOffset Timestamp);
+    public record RepositoryReference(string Url, DateTimeOffset Timestamp);
 }
