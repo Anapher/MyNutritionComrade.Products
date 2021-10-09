@@ -19,7 +19,7 @@ jobs:
           dotnet-version: 5.0.x
       - name: Install and Build 🔧
         working-directory: ./main-repo/src/Tools/ProductIndexCLI
-        run: dotnet run -- build -i /products -o /build
+        run: dotnet run -- build -i $GITHUB_WORKSPACE/products -o $GITHUB_WORKSPACE/build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:

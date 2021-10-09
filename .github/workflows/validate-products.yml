@@ -23,4 +23,4 @@ jobs:
           dotnet-version: 5.0.x
       - name: Validate files 🔧
         working-directory: ./main-repo/src/Tools/ProductIndexCLI
-        run: dotnet run -- validate -i /products
+        run: dotnet run -- validate -i $GITHUB_WORKSPACE/products
