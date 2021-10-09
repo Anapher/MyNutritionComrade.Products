@@ -22,7 +22,7 @@
     "package": 1000.0
   },
   "defaultServing": "ml",
-  "tags": [
-    "liquid"
-  ]
+  "tags": {
+    "liquid": true
+  }
 }
