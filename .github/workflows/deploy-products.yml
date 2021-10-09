@@ -9,19 +9,20 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: deploy-script/
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
+      - name: Clone build tools
+        run: git clone https://github.com/Anapher/MyNutritionComrade.git main-repo
+      - name: Copy build tool
+        run: mv main-repo/src/Tools/ProductIndexCLI cli
       - name: Setup .NET Core
         uses: actions/setup-dotnet@v1
         with:
           dotnet-version: 5.0.x
       - name: Install and Build 🔧
-        run: dotnet run -- build ../products ../build
-
+        working-directory: ./cli
+        run: dotnet run -- build -i ../products -o ../build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
