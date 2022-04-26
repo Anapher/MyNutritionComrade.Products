@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFlurry® Wahlzutat OREO®"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 476.0,
+    "fat": 20.0,
+    "saturatedFat": 5.4,
+    "carbohydrates": 68.0,
+    "sugars": 37.0,
+    "protein": 5.1,
+    "dietaryFiber": 3.0,
+    "sodium": 0.73
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 24.0
+  },
+  "defaultServing": "portion"
+}

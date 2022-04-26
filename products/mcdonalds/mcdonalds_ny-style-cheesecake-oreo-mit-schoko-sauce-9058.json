@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds N.Y. Style Cheesecake mit OREO®-Topping und Schoko-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 351.0,
+    "fat": 19.0,
+    "saturatedFat": 10.0,
+    "carbohydrates": 39.0,
+    "sugars": 27.0,
+    "protein": 5.3,
+    "dietaryFiber": 1.0,
+    "sodium": 0.55
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 202.0
+  },
+  "defaultServing": "portion"
+}

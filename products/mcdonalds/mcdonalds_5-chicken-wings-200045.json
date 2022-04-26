@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds 5 Chicken Wings"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 224.0,
+    "fat": 13.0,
+    "saturatedFat": 2.6,
+    "carbohydrates": 3.2,
+    "sugars": 0.3,
+    "protein": 23.0,
+    "dietaryFiber": 0.5,
+    "sodium": 1.6
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 140.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Pecan Nut Cookie"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 459.0,
+    "fat": 23.0,
+    "saturatedFat": 9.9,
+    "carbohydrates": 56.0,
+    "sugars": 32.0,
+    "protein": 5.0,
+    "dietaryFiber": 1.8,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 77.0
+  },
+  "defaultServing": "portion"
+}

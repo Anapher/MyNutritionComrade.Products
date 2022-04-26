@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McMuffin® Bacon &amp; Egg"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 224.0,
+    "fat": 10.0,
+    "saturatedFat": 4.1,
+    "carbohydrates": 20.0,
+    "sugars": 1.7,
+    "protein": 13.0,
+    "dietaryFiber": 1.3,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 132.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,24 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Chili-Cheese Snackers"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 287.0,
+    "fat": 16.0,
+    "saturatedFat": 7.9,
+    "carbohydrates": 27.0,
+    "sugars": 1.2,
+    "protein": 8.0,
+    "dietaryFiber": 1.7,
+    "sodium": 2.8
+  },
+  "servings": {
+    "small": 95.0,
+    "medium": 152.0,
+    "g": 1.0
+  },
+  "defaultServing": "small"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Barbecue Sauce 25ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 164.0,
+    "fat": 0.9,
+    "saturatedFat": 0.1,
+    "carbohydrates": 38.0,
+    "sugars": 33.0,
+    "protein": 0.7,
+    "dietaryFiber": 0.0,
+    "sodium": 1.5
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 29.0
+  },
+  "defaultServing": "portion"
+}

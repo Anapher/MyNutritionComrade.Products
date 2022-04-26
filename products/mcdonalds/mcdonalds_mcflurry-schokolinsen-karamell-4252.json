@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFlurry® Original Schokolinsen Karamell-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 229.0,
+    "fat": 6.5,
+    "saturatedFat": 4.4,
+    "carbohydrates": 39.0,
+    "sugars": 31.0,
+    "protein": 3.2,
+    "dietaryFiber": 0.4,
+    "sodium": 0.09
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 219.0
+  },
+  "defaultServing": "portion"
+}

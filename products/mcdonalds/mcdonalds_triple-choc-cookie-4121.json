@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Triple Choc Cookie"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 453.0,
+    "fat": 20.0,
+    "saturatedFat": 11.0,
+    "carbohydrates": 61.0,
+    "sugars": 42.0,
+    "protein": 5.7,
+    "dietaryFiber": 2.9,
+    "sodium": 0.9
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 77.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Veganburger TS"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 162.0,
+    "fat": 6.2,
+    "saturatedFat": 1.2,
+    "carbohydrates": 14.0,
+    "sugars": 4.0,
+    "protein": 10.0,
+    "dietaryFiber": 4.7,
+    "sodium": 1.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 188.0
+  },
+  "defaultServing": "portion"
+}

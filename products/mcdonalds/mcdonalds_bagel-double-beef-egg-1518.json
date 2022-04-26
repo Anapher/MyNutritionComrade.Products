@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Bagel Double Beef &amp; Egg"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 233.0,
+    "fat": 13.0,
+    "saturatedFat": 5.2,
+    "carbohydrates": 15.0,
+    "sugars": 2.5,
+    "protein": 13.0,
+    "dietaryFiber": 1.0,
+    "sodium": 0.97
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 270.0
+  },
+  "defaultServing": "portion"
+}

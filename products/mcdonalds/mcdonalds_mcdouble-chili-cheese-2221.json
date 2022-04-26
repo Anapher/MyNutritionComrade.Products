@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McDouble® Chili Cheese"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 259.0,
+    "fat": 13.0,
+    "saturatedFat": 6.5,
+    "carbohydrates": 18.0,
+    "sugars": 3.1,
+    "protein": 16.0,
+    "dietaryFiber": 0.9,
+    "sodium": 1.5
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 166.0
+  },
+  "defaultServing": "portion"
+}

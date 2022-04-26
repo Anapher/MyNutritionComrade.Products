@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFlurry® Frozen Yogurt OREO® Schoko-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 216.0,
+    "fat": 7.5,
+    "saturatedFat": 4.3,
+    "carbohydrates": 33.0,
+    "sugars": 27.0,
+    "protein": 4.3,
+    "dietaryFiber": 0.7,
+    "sodium": 0.27
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 200.0
+  },
+  "defaultServing": "portion"
+}

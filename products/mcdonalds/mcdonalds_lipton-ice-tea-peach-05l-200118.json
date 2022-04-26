@@ -1,0 +1,28 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Lipton Ice Tea Peach"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 15.954794748213395,
+    "fat": 0.0,
+    "saturatedFat": 0.0,
+    "carbohydrates": 3.888981219877015,
+    "sugars": 3.789263752700681,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.009971746717633371
+  },
+  "servings": {
+    "small": 250.0,
+    "medium": 400.0,
+    "large": 500.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

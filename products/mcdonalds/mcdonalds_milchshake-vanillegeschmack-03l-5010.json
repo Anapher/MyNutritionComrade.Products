@@ -1,0 +1,27 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Milchshake Vanillegeschmack"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 163.53111432706226,
+    "fat": 3.039073806078148,
+    "saturatedFat": 2.0260492040520983,
+    "carbohydrates": 30.39073806078148,
+    "sugars": 27.496382054992768,
+    "protein": 4.196816208393633,
+    "dietaryFiber": 0.0,
+    "sodium": 0.15918958031837918
+  },
+  "servings": {
+    "medium": 250.0,
+    "large": 400.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds N.Y. Style Cheesecake"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 335.0,
+    "fat": 21.0,
+    "saturatedFat": 11.0,
+    "carbohydrates": 30.0,
+    "sugars": 20.0,
+    "protein": 5.7,
+    "dietaryFiber": 0.4,
+    "sodium": 0.5
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 140.0
+  },
+  "defaultServing": "portion"
+}

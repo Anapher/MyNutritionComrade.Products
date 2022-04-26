@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Big Mac®"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 232.0,
+    "fat": 12.0,
+    "saturatedFat": 4.5,
+    "carbohydrates": 19.0,
+    "sugars": 3.9,
+    "protein": 12.0,
+    "dietaryFiber": 1.4,
+    "sodium": 1.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 217.0
+  },
+  "defaultServing": "portion"
+}

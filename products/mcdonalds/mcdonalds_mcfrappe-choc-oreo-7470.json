@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFrappé Choc OREO® 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 150.0,
+    "fat": 4.7,
+    "saturatedFat": 3.0,
+    "carbohydrates": 24.0,
+    "sugars": 20.0,
+    "protein": 2.8,
+    "dietaryFiber": 0.5,
+    "sodium": 0.17
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 439.0
+  },
+  "defaultServing": "portion"
+}

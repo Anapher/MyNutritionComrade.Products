@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Frucht-Quatsch 80g"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 51.0,
+    "fat": 0.6,
+    "saturatedFat": 0.1,
+    "carbohydrates": 9.7,
+    "sugars": 8.9,
+    "protein": 0.5,
+    "dietaryFiber": 1.6,
+    "sodium": 0.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 80.0
+  },
+  "defaultServing": "portion"
+}

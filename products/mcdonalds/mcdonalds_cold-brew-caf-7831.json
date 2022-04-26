@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Cold Brew Café 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 3.9,
+    "fat": 0.4,
+    "saturatedFat": 0.0,
+    "carbohydrates": 0.1,
+    "sugars": 0.0,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 450.0
+  },
+  "defaultServing": "portion"
+}

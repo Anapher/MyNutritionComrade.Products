@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McMuffin® Fresh Chicken"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 223.0,
+    "fat": 10.0,
+    "saturatedFat": 2.8,
+    "carbohydrates": 23.0,
+    "sugars": 2.1,
+    "protein": 9.4,
+    "dietaryFiber": 1.6,
+    "sodium": 1.2
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 159.0
+  },
+  "defaultServing": "portion"
+}

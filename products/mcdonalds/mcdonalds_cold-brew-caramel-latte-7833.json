@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Cold Brew Caramel Latte 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 34.0,
+    "fat": 0.6,
+    "saturatedFat": 0.0,
+    "carbohydrates": 6.8,
+    "sugars": 4.9,
+    "protein": 0.3,
+    "dietaryFiber": 0.0,
+    "sodium": 0.02
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 493.0
+  },
+  "defaultServing": "portion"
+}

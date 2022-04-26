@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Wahlzutat Karamell-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 325.0,
+    "fat": 4.7,
+    "saturatedFat": 3.1,
+    "carbohydrates": 69.0,
+    "sugars": 36.0,
+    "protein": 1.8,
+    "dietaryFiber": 0.0,
+    "sodium": 0.3
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 41.0
+  },
+  "defaultServing": "portion"
+}

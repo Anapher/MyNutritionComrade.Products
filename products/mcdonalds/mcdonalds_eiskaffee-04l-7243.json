@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Eiskaffee 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 77.0,
+    "fat": 3.4,
+    "saturatedFat": 2.1,
+    "carbohydrates": 10.0,
+    "sugars": 9.2,
+    "protein": 1.6,
+    "dietaryFiber": 0.0,
+    "sodium": 0.01
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 286.0
+  },
+  "defaultServing": "portion"
+}

@@ -7,11 +7,11 @@
   "nutritionalInfo": {
     "volume": 100.0,
     "energy": 254.0,
-    "fat": 10,
+    "fat": 10.0,
     "saturatedFat": 5.1,
     "carbohydrates": 26.0,
     "sugars": 5.8,
-    "protein": 13,
+    "protein": 13.0,
     "dietaryFiber": 1.6,
     "sodium": 1.4
   },

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Double Big Mac"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 246.0,
+    "fat": 13.0,
+    "saturatedFat": 5.3,
+    "carbohydrates": 17.0,
+    "sugars": 3.2,
+    "protein": 15.0,
+    "dietaryFiber": 1.1,
+    "sodium": 1.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 305.0
+  },
+  "defaultServing": "portion"
+}

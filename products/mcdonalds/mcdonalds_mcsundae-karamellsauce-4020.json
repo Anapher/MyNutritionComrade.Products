@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McSundae® Original Karamell-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 186.0,
+    "fat": 3.9,
+    "saturatedFat": 2.7,
+    "carbohydrates": 35.0,
+    "sugars": 25.0,
+    "protein": 3.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.18
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 154.0
+  },
+  "defaultServing": "portion"
+}

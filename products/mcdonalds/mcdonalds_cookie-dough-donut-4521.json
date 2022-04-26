@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Cookie Dough Donut"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 448.0,
+    "fat": 26.0,
+    "saturatedFat": 12.0,
+    "carbohydrates": 46.0,
+    "sugars": 19.0,
+    "protein": 6.1,
+    "dietaryFiber": 2.9,
+    "sodium": 0.63
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 79.0
+  },
+  "defaultServing": "portion"
+}

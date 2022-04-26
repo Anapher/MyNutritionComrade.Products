@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Schokoladenkuchen"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 512.0,
+    "fat": 33.0,
+    "saturatedFat": 11.0,
+    "carbohydrates": 49.0,
+    "sugars": 40.0,
+    "protein": 4.5,
+    "dietaryFiber": 3.3,
+    "sodium": 0.32
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 210.0
+  },
+  "defaultServing": "portion"
+}

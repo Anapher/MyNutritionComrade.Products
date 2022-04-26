@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Chickenburger"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 259.0,
+    "fat": 8.7,
+    "saturatedFat": 1.4,
+    "carbohydrates": 35.0,
+    "sugars": 8.0,
+    "protein": 9.3,
+    "dietaryFiber": 1.5,
+    "sodium": 1.2
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 127.0
+  },
+  "defaultServing": "portion"
+}

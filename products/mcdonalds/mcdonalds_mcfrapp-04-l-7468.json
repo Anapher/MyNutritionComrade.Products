@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFrappé Caramel 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 132.0,
+    "fat": 3.0,
+    "saturatedFat": 2.2,
+    "carbohydrates": 24.0,
+    "sugars": 17.0,
+    "protein": 2.4,
+    "dietaryFiber": 0.1,
+    "sodium": 0.11
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 418.0
+  },
+  "defaultServing": "portion"
+}

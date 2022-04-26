@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Heiße Erdbeer-Creamcheese Tasche"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 295.0,
+    "fat": 15.0,
+    "saturatedFat": 4.4,
+    "carbohydrates": 37.0,
+    "sugars": 15.0,
+    "protein": 3.9,
+    "dietaryFiber": 1.2,
+    "sodium": 0.4
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 78.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Schoko Muffin"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 442.0,
+    "fat": 27.0,
+    "saturatedFat": 6.9,
+    "carbohydrates": 43.0,
+    "sugars": 21.0,
+    "protein": 6.0,
+    "dietaryFiber": 2.7,
+    "sodium": 0.76
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 115.0
+  },
+  "defaultServing": "portion"
+}

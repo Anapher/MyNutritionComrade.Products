@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Rainbow Donut"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 421.0,
+    "fat": 26.0,
+    "saturatedFat": 10.0,
+    "carbohydrates": 40.0,
+    "sugars": 11.0,
+    "protein": 6.2,
+    "dietaryFiber": 3.6,
+    "sodium": 0.71
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 58.0
+  },
+  "defaultServing": "portion"
+}

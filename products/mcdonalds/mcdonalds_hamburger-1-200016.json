@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Hamburger"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 242.0,
+    "fat": 8.2,
+    "saturatedFat": 3.2,
+    "carbohydrates": 29.0,
+    "sugars": 6.1,
+    "protein": 12.0,
+    "dietaryFiber": 1.8,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 105.0
+  },
+  "defaultServing": "portion"
+}

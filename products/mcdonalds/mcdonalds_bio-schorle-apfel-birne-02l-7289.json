@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Bio Schorle Apfel-Birne 0,2l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 22.0,
+    "fat": 0.1,
+    "saturatedFat": 0.1,
+    "carbohydrates": 5.2,
+    "sugars": 5.0,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.01
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 206.0
+  },
+  "defaultServing": "portion"
+}

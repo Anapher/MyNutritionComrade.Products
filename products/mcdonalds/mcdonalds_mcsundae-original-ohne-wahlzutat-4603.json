@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McSundae® Original"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 139.0,
+    "fat": 3.6,
+    "saturatedFat": 2.6,
+    "carbohydrates": 23.0,
+    "sugars": 21.0,
+    "protein": 3.4,
+    "dietaryFiber": 0.0,
+    "sodium": 0.02
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 113.0
+  },
+  "defaultServing": "portion"
+}

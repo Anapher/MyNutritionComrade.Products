@@ -1,0 +1,24 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Latte Macchiato"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 41.0,
+    "fat": 2.2,
+    "saturatedFat": 0.0,
+    "carbohydrates": 3.0,
+    "sugars": 3.0,
+    "protein": 2.1,
+    "dietaryFiber": 0.0,
+    "sodium": 0.08
+  },
+  "servings": {
+    "medium": 203.0,
+    "large": 275.0,
+    "g": 1.0
+  },
+  "defaultServing": "medium"
+}

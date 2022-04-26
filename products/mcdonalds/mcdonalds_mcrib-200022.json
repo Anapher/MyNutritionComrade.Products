@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McRib®"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 231.0,
+    "fat": 11.0,
+    "saturatedFat": 4.2,
+    "carbohydrates": 21.0,
+    "sugars": 5.0,
+    "protein": 12.0,
+    "dietaryFiber": 1.2,
+    "sodium": 1.5
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 206.0
+  },
+  "defaultServing": "portion"
+}

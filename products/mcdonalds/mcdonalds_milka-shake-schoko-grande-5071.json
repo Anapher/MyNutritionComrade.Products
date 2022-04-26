@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McMilchshake OREO® Choc 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 165.0,
+    "fat": 4.4,
+    "saturatedFat": 2.6,
+    "carbohydrates": 28.0,
+    "sugars": 24.0,
+    "protein": 3.2,
+    "dietaryFiber": 0.4,
+    "sodium": 0.19
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 338.0
+  },
+  "defaultServing": "portion"
+}

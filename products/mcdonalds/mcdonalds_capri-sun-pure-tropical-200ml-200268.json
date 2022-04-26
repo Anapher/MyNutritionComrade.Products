@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Capri-Sun Tropical 0,2 l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 29.0,
+    "fat": 0.0,
+    "saturatedFat": 0.0,
+    "carbohydrates": 6.7,
+    "sugars": 6.6,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.01
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 206.0
+  },
+  "defaultServing": "portion"
+}

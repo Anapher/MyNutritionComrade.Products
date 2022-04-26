@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Grand BBQ Cheese"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 241.0,
+    "fat": 13.0,
+    "saturatedFat": 6.3,
+    "carbohydrates": 15.0,
+    "sugars": 4.7,
+    "protein": 15.0,
+    "dietaryFiber": 1.2,
+    "sodium": 1.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 344.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McFrappé Choc 0,3l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 134.0,
+    "fat": 4.2,
+    "saturatedFat": 3.2,
+    "carbohydrates": 21.0,
+    "sugars": 19.0,
+    "protein": 2.6,
+    "dietaryFiber": 0.4,
+    "sodium": 0.15
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 346.0
+  },
+  "defaultServing": "portion"
+}

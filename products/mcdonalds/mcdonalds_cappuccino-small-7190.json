@@ -1,0 +1,25 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Cappuccino"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 30.0,
+    "fat": 1.6,
+    "saturatedFat": 0.0,
+    "carbohydrates": 2.2,
+    "sugars": 2.2,
+    "protein": 1.5,
+    "dietaryFiber": 0.0,
+    "sodium": 0.06
+  },
+  "servings": {
+    "small": 140.0,
+    "medium": 203.0,
+    "large": 279.0,
+    "g": 1.0
+  },
+  "defaultServing": "small"
+}

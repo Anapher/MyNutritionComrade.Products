@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Mayonnaise 20ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 751.0,
+    "fat": 82.0,
+    "saturatedFat": 9.3,
+    "carbohydrates": 2.2,
+    "sugars": 2.2,
+    "protein": 1.2,
+    "dietaryFiber": 0.2,
+    "sodium": 1.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 19.0
+  },
+  "defaultServing": "portion"
+}

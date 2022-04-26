@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McWrap® Chicken TS"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 212.0,
+    "fat": 11.0,
+    "saturatedFat": 3.3,
+    "carbohydrates": 17.0,
+    "sugars": 2.2,
+    "protein": 9.7,
+    "dietaryFiber": 0.8,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 209.0
+  },
+  "defaultServing": "portion"
+}

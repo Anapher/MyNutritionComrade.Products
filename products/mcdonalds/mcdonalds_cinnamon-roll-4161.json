@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Cinnamon Roll"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 382.0,
+    "fat": 18.0,
+    "saturatedFat": 7.6,
+    "carbohydrates": 49.0,
+    "sugars": 20.0,
+    "protein": 5.2,
+    "dietaryFiber": 2.1,
+    "sodium": 0.73
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 95.0
+  },
+  "defaultServing": "portion"
+}

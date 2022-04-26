@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Homestyle Crispy Chicken"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 225.0,
+    "fat": 11.0,
+    "saturatedFat": 2.9,
+    "carbohydrates": 20.0,
+    "sugars": 3.3,
+    "protein": 12.0,
+    "dietaryFiber": 1.3,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 303.0
+  },
+  "defaultServing": "portion"
+}

@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Fruit Smoothie Mango-Ananas 0,4l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 47.0,
+    "fat": 0.2,
+    "saturatedFat": 0.0,
+    "carbohydrates": 10.0,
+    "sugars": 9.6,
+    "protein": 0.5,
+    "dietaryFiber": 0.6,
+    "sodium": 0.02
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 318.0
+  },
+  "defaultServing": "portion"
+}

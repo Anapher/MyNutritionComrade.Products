@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Adelholzener Apfelschorle 0,5l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 25.0,
+    "fat": 0.5,
+    "saturatedFat": 0.1,
+    "carbohydrates": 6.1,
+    "sugars": 5.8,
+    "protein": 0.5,
+    "dietaryFiber": 0.0,
+    "sodium": 0.01
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 500.0
+  },
+  "defaultServing": "portion"
+}

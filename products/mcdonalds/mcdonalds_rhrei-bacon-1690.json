@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Rührei Bacon"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 188.0,
+    "fat": 10.0,
+    "saturatedFat": 3.7,
+    "carbohydrates": 13.0,
+    "sugars": 1.4,
+    "protein": 11.0,
+    "dietaryFiber": 0.7,
+    "sodium": 0.98
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 236.0
+  },
+  "defaultServing": "portion"
+}

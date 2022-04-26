@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Balsamico Dressing 30ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 70.0,
+    "fat": 2.6,
+    "saturatedFat": 0.4,
+    "carbohydrates": 10.0,
+    "sugars": 10.0,
+    "protein": 0.1,
+    "dietaryFiber": 0.3,
+    "sodium": 1.8
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 32.0
+  },
+  "defaultServing": "portion"
+}

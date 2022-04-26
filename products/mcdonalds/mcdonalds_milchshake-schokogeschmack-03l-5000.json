@@ -1,0 +1,27 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Milchshake Schokogeschmack"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 170.76700434153403,
+    "fat": 3.328509406657019,
+    "saturatedFat": 2.31548480463097,
+    "carbohydrates": 30.39073806078148,
+    "sugars": 24.602026049204056,
+    "protein": 4.63096960926194,
+    "dietaryFiber": 0.5788712011577425,
+    "sodium": 0.31837916063675836
+  },
+  "servings": {
+    "medium": 250.0,
+    "large": 400.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Coca-Cola Zero Sugar"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 0.0,
+    "fat": 0.0,
+    "saturatedFat": 0.0,
+    "carbohydrates": 0.0,
+    "sugars": 0.0,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.03
+  },
+  "servings": {
+    "small": 250.0,
+    "medium": 400.0,
+    "large": 500.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

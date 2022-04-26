@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Caesar Dressing 50ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 304.0,
+    "fat": 29.0,
+    "saturatedFat": 2.9,
+    "carbohydrates": 8.1,
+    "sugars": 5.6,
+    "protein": 2.4,
+    "dietaryFiber": 0.3,
+    "sodium": 1.8
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 51.0
+  },
+  "defaultServing": "portion"
+}

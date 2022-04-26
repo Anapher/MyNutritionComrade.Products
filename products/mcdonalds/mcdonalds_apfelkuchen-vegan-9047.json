@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Apfelkuchen vegan"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 167.0,
+    "fat": 5.0,
+    "saturatedFat": 2.1,
+    "carbohydrates": 28.0,
+    "sugars": 17.0,
+    "protein": 1.5,
+    "dietaryFiber": 2.0,
+    "sodium": 0.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 188.0
+  },
+  "defaultServing": "portion"
+}

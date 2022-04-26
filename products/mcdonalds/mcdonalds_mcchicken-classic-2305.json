@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McChicken® Classic"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 258.0,
+    "fat": 11.0,
+    "saturatedFat": 1.9,
+    "carbohydrates": 28.0,
+    "sugars": 2.3,
+    "protein": 12.0,
+    "dietaryFiber": 1.2,
+    "sodium": 1.4
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 171.0
+  },
+  "defaultServing": "portion"
+}

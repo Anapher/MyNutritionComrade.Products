@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Bagel Schinken Käse"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 203.0,
+    "fat": 8.7,
+    "saturatedFat": 3.6,
+    "carbohydrates": 21.0,
+    "sugars": 2.6,
+    "protein": 9.1,
+    "dietaryFiber": 1.4,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 169.0
+  },
+  "defaultServing": "portion"
+}

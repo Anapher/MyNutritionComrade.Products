@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McSundae® Original Schoko-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 188.0,
+    "fat": 5.5,
+    "saturatedFat": 4.2,
+    "carbohydrates": 31.0,
+    "sugars": 28.0,
+    "protein": 3.6,
+    "dietaryFiber": 0.5,
+    "sodium": 0.17
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 152.0
+  },
+  "defaultServing": "portion"
+}

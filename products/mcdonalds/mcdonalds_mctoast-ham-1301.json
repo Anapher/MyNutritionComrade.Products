@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McToast® Ham &amp; Cheese"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 243.0,
+    "fat": 6.3,
+    "saturatedFat": 3.8,
+    "carbohydrates": 35.0,
+    "sugars": 2.1,
+    "protein": 11.0,
+    "dietaryFiber": 2.0,
+    "sodium": 1.8
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 104.0
+  },
+  "defaultServing": "portion"
+}

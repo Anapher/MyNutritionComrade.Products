@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Buttercroissant"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 432.0,
+    "fat": 24.0,
+    "saturatedFat": 14.0,
+    "carbohydrates": 44.0,
+    "sugars": 5.2,
+    "protein": 9.2,
+    "dietaryFiber": 3.2,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 57.0
+  },
+  "defaultServing": "portion"
+}

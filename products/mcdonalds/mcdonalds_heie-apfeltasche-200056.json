@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Heiße Apfeltasche"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 284.0,
+    "fat": 15.0,
+    "saturatedFat": 3.5,
+    "carbohydrates": 34.0,
+    "sugars": 11.0,
+    "protein": 2.9,
+    "dietaryFiber": 1.9,
+    "sodium": 0.41
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 80.0
+  },
+  "defaultServing": "portion"
+}

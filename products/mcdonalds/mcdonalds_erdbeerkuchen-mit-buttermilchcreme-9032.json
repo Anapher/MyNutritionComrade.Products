@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Erdbeerkuchen mit Buttermilchcreme"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 191.0,
+    "fat": 8.3,
+    "saturatedFat": 3.1,
+    "carbohydrates": 26.0,
+    "sugars": 19.0,
+    "protein": 2.7,
+    "dietaryFiber": 0.8,
+    "sodium": 0.23
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 167.0
+  },
+  "defaultServing": "portion"
+}

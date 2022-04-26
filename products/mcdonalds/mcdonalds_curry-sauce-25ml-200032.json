@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Curry Sauce 25ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 163.0,
+    "fat": 1.3,
+    "saturatedFat": 0.2,
+    "carbohydrates": 34.0,
+    "sugars": 33.0,
+    "protein": 0.9,
+    "dietaryFiber": 1.4,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 29.0
+  },
+  "defaultServing": "portion"
+}

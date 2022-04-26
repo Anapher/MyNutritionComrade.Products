@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Doppel-Cheeseburger"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 259.0,
+    "fat": 13.0,
+    "saturatedFat": 6.8,
+    "carbohydrates": 19.0,
+    "sugars": 4.3,
+    "protein": 15.0,
+    "dietaryFiber": 1.1,
+    "sodium": 1.4
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 171.0
+  },
+  "defaultServing": "portion"
+}

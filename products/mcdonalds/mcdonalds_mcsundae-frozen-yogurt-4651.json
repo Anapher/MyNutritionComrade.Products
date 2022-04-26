@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McSundae® Frozen Yogurt"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 139.0,
+    "fat": 4.4,
+    "saturatedFat": 2.8,
+    "carbohydrates": 21.0,
+    "sugars": 20.0,
+    "protein": 4.2,
+    "dietaryFiber": 0.0,
+    "sodium": 0.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 110.0
+  },
+  "defaultServing": "portion"
+}

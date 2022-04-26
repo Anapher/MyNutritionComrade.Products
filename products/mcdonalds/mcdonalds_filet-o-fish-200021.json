@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Filet-o-Fish®"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 242.0,
+    "fat": 9.7,
+    "saturatedFat": 1.9,
+    "carbohydrates": 27.0,
+    "sugars": 3.5,
+    "protein": 11.0,
+    "dietaryFiber": 1.4,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 137.0
+  },
+  "defaultServing": "portion"
+}

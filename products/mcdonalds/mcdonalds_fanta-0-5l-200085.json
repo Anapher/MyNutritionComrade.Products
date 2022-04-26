@@ -1,0 +1,28 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Fanta"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 38.0,
+    "fat": 0.0,
+    "saturatedFat": 0.0,
+    "carbohydrates": 10.0,
+    "sugars": 9.0,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.01
+  },
+  "servings": {
+    "small": 250.0,
+    "medium": 400.0,
+    "large": 500.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

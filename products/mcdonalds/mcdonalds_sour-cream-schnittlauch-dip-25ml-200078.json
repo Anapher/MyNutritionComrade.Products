@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Sour Cream-Schnittlauch Dip 25ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 459.0,
+    "fat": 51.0,
+    "saturatedFat": 4.7,
+    "carbohydrates": 1.9,
+    "sugars": 1.0,
+    "protein": 1.1,
+    "dietaryFiber": 0.4,
+    "sodium": 0.9
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 24.0
+  },
+  "defaultServing": "portion"
+}

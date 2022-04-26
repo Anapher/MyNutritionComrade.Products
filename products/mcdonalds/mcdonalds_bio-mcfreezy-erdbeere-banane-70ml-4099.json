@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Bio McFreezy Erdbeere-Banane 70ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 58.0,
+    "fat": 0.5,
+    "saturatedFat": 0.1,
+    "carbohydrates": 13.0,
+    "sugars": 12.0,
+    "protein": 0.5,
+    "dietaryFiber": 0.0,
+    "sodium": 0.02
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 70.0
+  },
+  "defaultServing": "portion"
+}

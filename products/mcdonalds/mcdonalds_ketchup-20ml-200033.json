@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Ketchup 20ml"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 125.0,
+    "fat": 0.4,
+    "saturatedFat": 0.1,
+    "carbohydrates": 28.0,
+    "sugars": 19.0,
+    "protein": 1.6,
+    "dietaryFiber": 2.2,
+    "sodium": 2.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 23.0
+  },
+  "defaultServing": "portion"
+}

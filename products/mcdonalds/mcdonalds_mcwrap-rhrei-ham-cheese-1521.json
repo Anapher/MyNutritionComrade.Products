@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McWrap® Rührei Ham &amp; Cheese"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 185.0,
+    "fat": 10.0,
+    "saturatedFat": 3.8,
+    "carbohydrates": 14.0,
+    "sugars": 2.0,
+    "protein": 8.9,
+    "dietaryFiber": 0.6,
+    "sodium": 1.1
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 247.0
+  },
+  "defaultServing": "portion"
+}

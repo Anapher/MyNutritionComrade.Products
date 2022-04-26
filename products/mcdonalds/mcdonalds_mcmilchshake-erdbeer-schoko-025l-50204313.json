@@ -1,0 +1,27 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McMilchshake Erdbeer Schoko-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 186.61755678330263,
+    "fat": 4.542664211172498,
+    "saturatedFat": 3.560466543891958,
+    "carbohydrates": 31.921424186617557,
+    "sugars": 29.465930018416206,
+    "protein": 3.8060159607120934,
+    "dietaryFiber": 0.3683241252302026,
+    "sodium": 0.22099447513812154
+  },
+  "servings": {
+    "medium": 250.0,
+    "large": 400.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}

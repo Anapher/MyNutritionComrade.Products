@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds nutella® 15 g"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 533.0,
+    "fat": 31.0,
+    "saturatedFat": 11.0,
+    "carbohydrates": 58.0,
+    "sugars": 56.0,
+    "protein": 6.3,
+    "dietaryFiber": 0.0,
+    "sodium": 0.11
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 15.0
+  },
+  "defaultServing": "portion"
+}

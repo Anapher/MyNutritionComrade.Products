@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McSundae® Schoko Vegan Erdbeer-Sauce Vegan"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 174.0,
+    "fat": 2.9,
+    "saturatedFat": 0.8,
+    "carbohydrates": 34.0,
+    "sugars": 22.0,
+    "protein": 1.6,
+    "dietaryFiber": 1.7,
+    "sodium": 0.22
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 144.0
+  },
+  "defaultServing": "portion"
+}

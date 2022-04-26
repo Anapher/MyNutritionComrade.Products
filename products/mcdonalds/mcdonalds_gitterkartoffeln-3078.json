@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds Netzkartoffeln"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 312.0,
+    "fat": 17.0,
+    "saturatedFat": 2.5,
+    "carbohydrates": 34.0,
+    "sugars": 0.4,
+    "protein": 3.0,
+    "dietaryFiber": 4.0,
+    "sodium": 1.6
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 130.0
+  },
+  "defaultServing": "portion"
+}

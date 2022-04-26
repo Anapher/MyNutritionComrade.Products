@@ -1,0 +1,23 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds ViO Mineralwasser Medium 0,5l"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 0.0,
+    "fat": 0.0,
+    "saturatedFat": 0.0,
+    "carbohydrates": 0.0,
+    "sugars": 0.0,
+    "protein": 0.0,
+    "dietaryFiber": 0.0,
+    "sodium": 0.0
+  },
+  "servings": {
+    "g": 1.0,
+    "portion": 500.0
+  },
+  "defaultServing": "portion"
+}

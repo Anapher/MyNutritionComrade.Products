@@ -1,0 +1,27 @@
+{
+  "label": {
+    "de": {
+      "value": "McDonalds McMilchshake Schoko Karamell-Sauce"
+    }
+  },
+  "nutritionalInfo": {
+    "volume": 100.0,
+    "energy": 191.68941461935094,
+    "fat": 3.3970276008492566,
+    "saturatedFat": 2.3051258720048526,
+    "carbohydrates": 36.39672429481347,
+    "sugars": 25.477707006369428,
+    "protein": 3.5183500151653018,
+    "dietaryFiber": 0.36396724294813465,
+    "sodium": 0.2426448286320898
+  },
+  "servings": {
+    "medium": 250.0,
+    "large": 400.0,
+    "ml": 1.0
+  },
+  "defaultServing": "medium",
+  "tags": {
+    "liquid": true
+  }
+}
